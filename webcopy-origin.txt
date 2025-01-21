@@ -1,0 +1,660 @@
+Uri: https://polyfill-fastly.io/v3/polyfill.min.js?features=fetch
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_1bdad4cd00653a3ae3b918d5a4d4102b_642.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-5
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_6b5556a0904fa4727351aa03d91ef96d_643.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-4
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_1bdad4cd00653a3ae3b918d5a4d4102b_642.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-7
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_6b5556a0904fa4727351aa03d91ef96d_643.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-6
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_0604cb8bf7bac174d69f5afa7865d496_641.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_6b5556a0904fa4727351aa03d91ef96d_643.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_0604cb8bf7bac174d69f5afa7865d496_641.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4280.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=62844257.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_6b5556a0904fa4727351aa03d91ef96d_643.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_2495f9388048da19720951b1015c44ac_614.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-10
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_6b5556a0904fa4727351aa03d91ef96d_643.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-8
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WRichTextVerticalTextNowidth%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.imageEncodingAVIF%2C.inflateRepeaterItemsInRender%2C.minMaxInCheckboxGroup%2C.motionFeature%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.removeHeaderFooterWrappers%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4280.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.shoobadookie.com&fileId=1989bbba.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&metaSiteId=ed999113-03ac-424f-bbc3-1360ab03c9fa&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=en&pageId=80ff1c_8a9945ea6e0f0eda97379f5c55d682f3_614.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13226.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=7a84c5d2-6a0f-43ec-9bd0-378cfacc9cc7&siteRevision=643&staticHTMLComponentUrl=https:%2F%2Fwww-shoobadookie-com.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pages\pages\thunderbolt-9
+Content Type: application/json
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-lt-w10-roman.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-lt-w10-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w01-roman.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-w01-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w02-roman.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-w02-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-lt-w10-bold.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\2f12de04-5ca4-4ada-9e66-a958673b12b5\v1\helvetica-lt-w10-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-w01-bold.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\2f12de04-5ca4-4ada-9e66-a958673b12b5\v1\helvetica-w01-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-w02-bold.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\2f12de04-5ca4-4ada-9e66-a958673b12b5\v1\helvetica-w02-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/30d7ec3c-2ec7-45dd-a563-dad3f8aaa722/v1/comic-sans-w01-regular.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\30d7ec3c-2ec7-45dd-a563-dad3f8aaa722\v1\comic-sans-w01-regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/30d7ec3c-2ec7-45dd-a563-dad3f8aaa722/v1/comic-sans-w02-regular.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\30d7ec3c-2ec7-45dd-a563-dad3f8aaa722\v1\comic-sans-w02-regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/30d7ec3c-2ec7-45dd-a563-dad3f8aaa722/v1/comic-sans-w10-regular.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\30d7ec3c-2ec7-45dd-a563-dad3f8aaa722\v1\comic-sans-w10-regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w01_85-heavy1475544.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\74290729-59ae-4129-87d0-2eec3974dce1\v1\avenir-lt-w01_85-heavy1475544.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w05_85-heavy.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\74290729-59ae-4129-87d0-2eec3974dce1\v1\avenir-lt-w05_85-heavy.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/790166f1-b347-4f16-8a29-f0c4931a7c35/v1/futura-lt-w01-book.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\790166f1-b347-4f16-8a29-f0c4931a7c35\v1\futura-lt-w01-book.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d/v1/futura-lt-w01-light.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d\v1\futura-lt-w01-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d/v1/futura-lt-w05-light.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\8e5b5cbc-6ad9-49f7-aee7-4e5133c3ee4d\v1\futura-lt-w05-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\af36905f-3c92-4ef9-b0c1-f91432f16ac1\v1\avenir-lt-w01_35-light1475496.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\af36905f-3c92-4ef9-b0c1-f91432f16ac1\v1\avenir-lt-w05_35-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w01-reg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\c24fcada-6239-48bc-8b88-9288338191c9\v1\proxima-n-w01-reg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w05-reg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\c24fcada-6239-48bc-8b88-9288338191c9\v1\proxima-n-w05-reg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w01-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w02-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w10-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/form-app/1.1480.0/client-viewer/1093.chunk.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\form-app\1.1480.0\client-viewer\1093.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.1480.0/client-viewer/form-app-checkbox.chunk.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\form-app\1.1480.0\client-viewer\form-app-checkbox.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.1480.0/client-viewer/form-app-header.chunk.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\form-app\1.1480.0\client-viewer\form-app-header.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.1480.0/client-viewer/form-app-text-area.chunk.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\form-app\1.1480.0\client-viewer\form-app-text-area.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.1480.0/client-viewer/form-app-wix-ricos-viewer.chunk.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\form-app\1.1480.0\client-viewer\form-app-wix-ricos-viewer.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.920.0/siteTags.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\tag-manager-client\1.920.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/8875.46b20782.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\wix-thunderbolt\dist\8875.46b20782.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\wix-thunderbolt\dist\browser-deprecation.bundle.es5.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.7a7823a0.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\wix-thunderbolt\dist\main.7a7823a0.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.a20626f8.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\wix-thunderbolt\dist\main.renderer.a20626f8.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.bd36dfd5.bundle.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\services\wix-thunderbolt\dist\thunderbolt-commons.bd36dfd5.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7acnpF2V0EjdZ2VkaYrzp5gGDAbnCA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7acnpF2V0EjdZ2VkaYrzp5gGDAbnCA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7acnpF2V0EjdZ2VkaYwzp5gGDAbnCA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7acnpF2V0EjdZ2VkaYwzp5gGDAbnCA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7acnpF2V0EjdZ2VkaYxzp5gGDAbnCA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7acnpF2V0EjdZ2VkaYxzp5gGDAbnCA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7acnpF2V0EjdZ2VkaY_zp5gGDAb.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7acnpF2V0EjdZ2VkaY_zp5gGDAb.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aenpF2V0Ery4A5h5Y9xJlCGgAa.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aenpF2V0Ery4A5h5Y9xJlCGgAa.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aenpF2V0Ery4A5k5Y9xJlCGg.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aenpF2V0Ery4A5k5Y9xJlCGg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aenpF2V0Ery4A5nJY9xJlCGgAa.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aenpF2V0Ery4A5nJY9xJlCGgAa.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aenpF2V0Ery4A5nZY9xJlCGgAa.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aenpF2V0Ery4A5nZY9xJlCGgAa.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aRnpF2V0EjdZU6tLMS7JNKIjk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aRnpF2V0EjdZU6tLMS7JNKIjk.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aRnpF2V0EjdZUgtLMS7JNKIjk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aRnpF2V0EjdZUgtLMS7JNKIjk.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aRnpF2V0EjdZUhtLMS7JNKIjk.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aRnpF2V0EjdZUhtLMS7JNKIjk.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aRnpF2V0EjdZUutLMS7JNK.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aRnpF2V0EjdZUutLMS7JNK.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aTnpF2V0EjcKUsvrQw7g.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aTnpF2V0EjcKUsvrQw7g.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aTnpF2V0Ejf6UsvrQw7qNL.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aTnpF2V0Ejf6UsvrQw7qNL.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aTnpF2V0EjfqUsvrQw7qNL.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aTnpF2V0EjfqUsvrQw7qNL.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/k2d/v11/J7aTnpF2V0EjZKUsvrQw7qNL.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\k2d\v11\J7aTnpF2V0EjZKUsvrQw7qNL.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/patrickhand/v23/LDI1apSQOAYtSuYWp8ZhfYe8UcLLubg58xGL.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\patrickhand\v23\LDI1apSQOAYtSuYWp8ZhfYe8UcLLubg58xGL.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/patrickhand/v23/LDI1apSQOAYtSuYWp8ZhfYe8UMLLubg58xGL.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\patrickhand\v23\LDI1apSQOAYtSuYWp8ZhfYe8UMLLubg58xGL.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/patrickhand/v23/LDI1apSQOAYtSuYWp8ZhfYe8XsLLubg58w.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\patrickhand\v23\LDI1apSQOAYtSuYWp8ZhfYe8XsLLubg58w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/n7G4PqJvFP2Kubl0VBLDEA9QP145tN5qB9RQEnC5ftI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v13\n7G4PqJvFP2Kubl0VBLDEA9QP145tN5qB9RQEnC5ftI.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/n7G4PqJvFP2Kubl0VBLDEPizZYmr4BUkAcTxjCN2kLE.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v13\n7G4PqJvFP2Kubl0VBLDEPizZYmr4BUkAcTxjCN2kLE.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/UC3ZEjagJi85gF9qFaBgIIWMvkC5IXg8PD2cMeMDjBI.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v13\UC3ZEjagJi85gF9qFaBgIIWMvkC5IXg8PD2cMeMDjBI.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v13/UC3ZEjagJi85gF9qFaBgILxv9TIgpWQaRKdG-_MdlP0.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v13\UC3ZEjagJi85gF9qFaBgILxv9TIgpWQaRKdG-_MdlP0.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgEM86xRbPQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgEM86xRbPQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgEM86xRbPQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk7yRZrPJ-M.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk7yRZrPJ-M.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk7yRZrPJ-M.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lW4e5j5hNKc.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWAe5j5hNKe1_w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWEe5j5hNKe1_w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFlD-vYSZviVYUb_rj3ij__anPXBYf9lWoe5j5hNKe1_w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu4DRmFqWF_ljR.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu5DRmFqWF_g.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6jRmFqWF_ljR.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/playfairdisplay/v18/nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\playfairdisplay\v18\nuFnD-vYSZviVYUb_rj3ij__anPXDTngOWwu6zRmFqWF_ljR.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\unpkg\react-dom@18.3.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\unpkg\react@18.3.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/2386529f5a764f98ae7a4e714e04c9aa.png/v1/fill/w_61,h_46,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2386529f5a764f98ae7a4e714e04c9aa.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\2386529f5a764f98ae7a4e714e04c9aa.png\v1\fill\w_61,h_46,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\2386529f5a764f98ae7a4e714e04c9aa.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_05c07a3914144a43a89d10b92e844db6~mv2.jpg/v1/fill/w_51,h_55,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/80ff1c_05c07a3914144a43a89d10b92e844db6~mv2.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_05c07a3914144a43a89d10b92e844db6~mv2.jpg\v1\fill\w_51,h_55,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\80ff1c_05c07a3914144a43a89d10b92e844db6~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_05c07a3914144a43a89d10b92e844db6~mv2.jpg/v1/fill/w_69,h_74,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/80ff1c_05c07a3914144a43a89d10b92e844db6~mv2.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_05c07a3914144a43a89d10b92e844db6~mv2.jpg\v1\fill\w_69,h_74,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto\80ff1c_05c07a3914144a43a89d10b92e844db6~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_07c8f43e23e040e39a817cc0945e132a~mv2.jpg/v1/fill/w_282,h_376,q_90/80ff1c_07c8f43e23e040e39a817cc0945e132a~mv2.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_07c8f43e23e040e39a817cc0945e132a~mv2.jpg\v1\fill\w_282,h_376,q_90\80ff1c_07c8f43e23e040e39a817cc0945e132a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_0b85aee5a1b5479893ec1a59df386275~mv2.png/v1/fill/w_136,h_103,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Twitter X Icon PNG_edited_edited.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_0b85aee5a1b5479893ec1a59df386275~mv2.png\v1\fill\w_136,h_103,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\Twitter X Icon PNG_edited_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_0dd66dee8cb24ec68312e5de955885bd~mv2.png/v1/crop/x_15,y_27,w_279,h_552/fill/w_54,h_108,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_0dd66dee8cb24ec68312e5de955885bd~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_0dd66dee8cb24ec68312e5de955885bd~mv2.png\v1\crop\x_15,y_27,w_279,h_552\fill\w_54,h_108,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_0dd66dee8cb24ec68312e5de955885bd~.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_0f901f62d9844386a0f86fe6f3f97bc1~mv2.png/v1/crop/x_0,y_109,w_500,h_391/fill/w_366,h_288,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/67632dca021f4a92223d9a95_OTT.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_0f901f62d9844386a0f86fe6f3f97bc1~mv2.png\v1\crop\x_0,y_109,w_500,h_391\fill\w_366,h_288,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\67632dca021f4a92223d9a95_OTT.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_171868bb6df94a8fab9e59d12bb69c9a~mv2.png/v1/fill/w_64,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/various-tropical-leaves-transparent-back.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_171868bb6df94a8fab9e59d12bb69c9a~mv2.png\v1\fill\w_64,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\various-tropical-leaves-transparent-back.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_18b72d1988b544c291b606f9c41aa540f003.jpg/v1/fill/w_108,h_108,q_70/80ff1c_18b72d1988b544c291b606f9c41aa540f003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_18b72d1988b544c291b606f9c41aa540f003.jpg\v1\fill\w_108,h_108,q_70\80ff1c_18b72d1988b544c291b606f9c41aa540f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_18b72d1988b544c291b606f9c41aa540f003.jpg/v1/fit/w_640,h_521,q_90/80ff1c_18b72d1988b544c291b606f9c41aa540f003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_18b72d1988b544c291b606f9c41aa540f003.jpg\v1\fit\w_640,h_521,q_90\80ff1c_18b72d1988b544c291b606f9c41aa540f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_1c62df6e227348898b01383176323691~mv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/80ff1c_1c62df6e227348898b01383176323691~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_1c62df6e227348898b01383176323691~mv2.png\v1\fill\w_180,h_180,lg_1,usm_0.66_1.00_0.01\80ff1c_1c62df6e227348898b01383176323691~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_1c62df6e227348898b01383176323691~mv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/80ff1c_1c62df6e227348898b01383176323691~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_1c62df6e227348898b01383176323691~mv2.png\v1\fill\w_192,h_192,lg_1,usm_0.66_1.00_0.01\80ff1c_1c62df6e227348898b01383176323691~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_1c62df6e227348898b01383176323691~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/80ff1c_1c62df6e227348898b01383176323691~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_1c62df6e227348898b01383176323691~mv2.png\v1\fill\w_32,h_32,lg_1,usm_0.66_1.00_0.01\80ff1c_1c62df6e227348898b01383176323691~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_22dadb89f87b470fac4cc448460e9820~mv2.png/v1/fill/w_102,h_102,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/il_1588xN_6246883483_5946_edited.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_22dadb89f87b470fac4cc448460e9820~mv2.png\v1\fill\w_102,h_102,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\il_1588xN_6246883483_5946_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_2aed66518e67425a88d456b140ca3d87f003.jpg/v1/fill/w_282,h_376,q_90/80ff1c_2aed66518e67425a88d456b140ca3d87f003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_2aed66518e67425a88d456b140ca3d87f003.jpg\v1\fill\w_282,h_376,q_90\80ff1c_2aed66518e67425a88d456b140ca3d87f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_2b2852f1b7804264acbae7ac10cf6831~mv2.jpg/v1/fill/w_400,h_400,al_c,q_80/80ff1c_2b2852f1b7804264acbae7ac10cf6831~mv2.jpg?formatterValues=80ff1c_2b2852f1b7804264acbae7ac10cf6831~mv2.jpg,400,400
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_2b2852f1b7804264acbae7ac10cf6831~mv2.jpg\v1\fill\w_400,h_400,al_c,q_80\80ff1c_2b2852f1b7804264acbae7ac10cf6831~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_2e714ad1d0324e108b90681543a11d11~mv2.png/v1/fill/w_61,h_24,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/various-tropical-leaves-transparent-back.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_2e714ad1d0324e108b90681543a11d11~mv2.png\v1\fill\w_61,h_24,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\various-tropical-leaves-transparent-back.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png/v1/fill/w_142,h_84,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png\v1\fill\w_142,h_84,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png/v1/fill/w_209,h_123,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png\v1\fill\w_209,h_123,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png/v1/fill/w_289,h_172,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png\v1\fill\w_289,h_172,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png/v1/fill/w_329,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8f6e6534617dcdc81ace386e4b6905a1.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png\v1\fill\w_329,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\8f6e6534617dcdc81ace386e4b6905a1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png/v1/fill/w_70,h_42,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8f6e6534617dcdc81ace386e4b6905a1.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png\v1\fill\w_70,h_42,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\8f6e6534617dcdc81ace386e4b6905a1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png/v1/fill/w_71,h_42,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png\v1\fill\w_71,h_42,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_321d9cd9f18947fea1737e02af5974de~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_3b11c34bfb124c038d104722acf4f688~mv2.jpg/v1/fill/w_147,h_221,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_3b11c34bfb124c038d104722acf4f688~mv2.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_3b11c34bfb124c038d104722acf4f688~mv2.jpg\v1\fill\w_147,h_221,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_3b11c34bfb124c038d104722acf4f688~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_4574c162ea7b4e42b7a8ba1330426854f003.jpg/v1/fill/w_282,h_376,q_90/80ff1c_4574c162ea7b4e42b7a8ba1330426854f003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_4574c162ea7b4e42b7a8ba1330426854f003.jpg\v1\fill\w_282,h_376,q_90\80ff1c_4574c162ea7b4e42b7a8ba1330426854f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_5206578ad1944209adcf56311fcb55f0~mv2.gif
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_5206578ad1944209adcf56311fcb55f0~mv2.gif
+Content Type: image/gif
+
+Uri: https://static.wixstatic.com/media/80ff1c_5a6cd295242948899f08d34bc4f5266af003.jpg/v1/fill/w_108,h_108,q_70/80ff1c_5a6cd295242948899f08d34bc4f5266af003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_5a6cd295242948899f08d34bc4f5266af003.jpg\v1\fill\w_108,h_108,q_70\80ff1c_5a6cd295242948899f08d34bc4f5266af003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_5b543e7b23674eae9c4af8442dbb98a5~mv2.png/v1/fill/w_231,h_137,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8f6e6534617dcdc81ace386e4b6905a1_edited_.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_5b543e7b23674eae9c4af8442dbb98a5~mv2.png\v1\fill\w_231,h_137,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\8f6e6534617dcdc81ace386e4b6905a1_edited_.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_5b543e7b23674eae9c4af8442dbb98a5~mv2.png/v1/fill/w_289,h_172,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80ff1c_5b543e7b23674eae9c4af8442dbb98a5~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_5b543e7b23674eae9c4af8442dbb98a5~mv2.png\v1\fill\w_289,h_172,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\80ff1c_5b543e7b23674eae9c4af8442dbb98a5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_5fdc4f77b5bd4c72aa4f47ba1ca5633d~mv2.png/v1/fill/w_910,h_529,al_c/80ff1c_5fdc4f77b5bd4c72aa4f47ba1ca5633d~mv2.png?formatterValues=80ff1c_5fdc4f77b5bd4c72aa4f47ba1ca5633d~mv2.png,910,529
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_5fdc4f77b5bd4c72aa4f47ba1ca5633d~mv2.png\v1\fill\w_910,h_529,al_c\80ff1c_5fdc4f77b5bd4c72aa4f47ba1ca5633d~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_6791818801ef467585b38d1ea7bc1e40~mv2.jpeg/v1/fill/w_282,h_376,q_90/80ff1c_6791818801ef467585b38d1ea7bc1e40~mv2.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_6791818801ef467585b38d1ea7bc1e40~mv2.jpeg\v1\fill\w_282,h_376,q_90\80ff1c_6791818801ef467585b38d1ea7bc1e40~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_6791818801ef467585b38d1ea7bc1e40~mv2.jpeg/v1/fill/w_77,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_6791818801ef467585b38d1ea7bc1e40~mv2.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_6791818801ef467585b38d1ea7bc1e40~mv2.jpeg\v1\fill\w_77,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_6791818801ef467585b38d1ea7bc1e40~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_68b6f23e9667483eb3c061dcd14b9417f003.jpg/v1/fill/w_108,h_108,q_70/80ff1c_68b6f23e9667483eb3c061dcd14b9417f003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_68b6f23e9667483eb3c061dcd14b9417f003.jpg\v1\fill\w_108,h_108,q_70\80ff1c_68b6f23e9667483eb3c061dcd14b9417f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_68b6f23e9667483eb3c061dcd14b9417f003.jpg/v1/fit/w_848,h_521,q_90/80ff1c_68b6f23e9667483eb3c061dcd14b9417f003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_68b6f23e9667483eb3c061dcd14b9417f003.jpg\v1\fit\w_848,h_521,q_90\80ff1c_68b6f23e9667483eb3c061dcd14b9417f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_6b1c667ad5e64a5c97d54152ebb4240b~mv2.png/v1/fill/w_435,h_435,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/DOOK CLASSIC.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_6b1c667ad5e64a5c97d54152ebb4240b~mv2.png\v1\fill\w_435,h_435,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\DOOK CLASSIC.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_70da5d7c959d4c8cb34c08192fc721bf~mv2.png/v1/fill/w_104,h_103,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80ff1c_70da5d7c959d4c8cb34c08192fc721bf~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_70da5d7c959d4c8cb34c08192fc721bf~mv2.png\v1\fill\w_104,h_103,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\80ff1c_70da5d7c959d4c8cb34c08192fc721bf~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_7462315edeaf4193a6868186e3c75bf3f003.jpg/v1/fill/w_108,h_108,q_70/80ff1c_7462315edeaf4193a6868186e3c75bf3f003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_7462315edeaf4193a6868186e3c75bf3f003.jpg\v1\fill\w_108,h_108,q_70\80ff1c_7462315edeaf4193a6868186e3c75bf3f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_7c24b68dd71642b286f54f669e45739cf003.jpg/v1/fill/w_108,h_108,q_70/80ff1c_7c24b68dd71642b286f54f669e45739cf003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_7c24b68dd71642b286f54f669e45739cf003.jpg\v1\fill\w_108,h_108,q_70\80ff1c_7c24b68dd71642b286f54f669e45739cf003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_8385896ee2ff4a5287d5fd48d73a30b3~mv2.png/v1/crop/x_132,y_81,w_338,h_436/fill/w_58,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_8385896ee2ff4a5287d5fd48d73a30b3~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_8385896ee2ff4a5287d5fd48d73a30b3~mv2.png\v1\crop\x_132,y_81,w_338,h_436\fill\w_58,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_8385896ee2ff4a5287d5fd48d73a30b3~.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_888644e6994e42cab4a9ded14db05cfaf003.jpg/v1/fill/w_108,h_108,q_70/80ff1c_888644e6994e42cab4a9ded14db05cfaf003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_888644e6994e42cab4a9ded14db05cfaf003.jpg\v1\fill\w_108,h_108,q_70\80ff1c_888644e6994e42cab4a9ded14db05cfaf003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_8bc31d407a0345268f25cefe0f2adffc~mv2.png/v1/fill/w_31,h_32,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Solana-Round-White-Logo-PNG.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_8bc31d407a0345268f25cefe0f2adffc~mv2.png\v1\fill\w_31,h_32,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\Solana-Round-White-Logo-PNG.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_8bc31d407a0345268f25cefe0f2adffc~mv2.png/v1/fill/w_73,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80ff1c_8bc31d407a0345268f25cefe0f2adffc~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_8bc31d407a0345268f25cefe0f2adffc~mv2.png\v1\fill\w_73,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\80ff1c_8bc31d407a0345268f25cefe0f2adffc~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_96cba7f069994a01b12ac0527ed16730f003.jpg/v1/fill/w_108,h_108,q_70/80ff1c_96cba7f069994a01b12ac0527ed16730f003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_96cba7f069994a01b12ac0527ed16730f003.jpg\v1\fill\w_108,h_108,q_70\80ff1c_96cba7f069994a01b12ac0527ed16730f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_9a67ca358aa74592b8c6c6f2a72bd256~mv2.png/v1/fill/w_390,h_546,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80ff1c_9a67ca358aa74592b8c6c6f2a72bd256~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_9a67ca358aa74592b8c6c6f2a72bd256~mv2.png\v1\fill\w_390,h_546,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\80ff1c_9a67ca358aa74592b8c6c6f2a72bd256~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_9b9008b8fb2541b9a1459c5166d30699~mv2.png/v1/fill/w_106,h_106,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/80ff1c_9b9008b8fb2541b9a1459c5166d30699~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_9b9008b8fb2541b9a1459c5166d30699~mv2.png\v1\fill\w_106,h_106,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\80ff1c_9b9008b8fb2541b9a1459c5166d30699~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_9b9008b8fb2541b9a1459c5166d30699~mv2.png/v1/fill/w_31,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/base-logo-in-blue bigger.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_9b9008b8fb2541b9a1459c5166d30699~mv2.png\v1\fill\w_31,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\base-logo-in-blue bigger.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_9e94b042fb854f57b45e99e2986c6f56f003.jpg/v1/fill/w_108,h_108,q_70/80ff1c_9e94b042fb854f57b45e99e2986c6f56f003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_9e94b042fb854f57b45e99e2986c6f56f003.jpg\v1\fill\w_108,h_108,q_70\80ff1c_9e94b042fb854f57b45e99e2986c6f56f003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_a22ea7feb3a84d0298acd8f6de30aca0~mv2.png/v1/fill/w_56,h_31,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_a22ea7feb3a84d0298acd8f6de30aca0~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_a22ea7feb3a84d0298acd8f6de30aca0~mv2.png\v1\fill\w_56,h_31,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_a22ea7feb3a84d0298acd8f6de30aca0~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_a22ea7feb3a84d0298acd8f6de30aca0~mv2.png/v1/fill/w_60,h_34,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_a22ea7feb3a84d0298acd8f6de30aca0~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_a22ea7feb3a84d0298acd8f6de30aca0~mv2.png\v1\fill\w_60,h_34,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_a22ea7feb3a84d0298acd8f6de30aca0~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_a3e3aabf3c2f42d88e921a28e56323c3~mv2.png/v1/fill/w_52,h_38,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_a3e3aabf3c2f42d88e921a28e56323c3~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_a3e3aabf3c2f42d88e921a28e56323c3~mv2.png\v1\fill\w_52,h_38,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_a3e3aabf3c2f42d88e921a28e56323c3~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_a69c0ceb33eb42829ef7b95f5ae0af4c~mv2.png/v1/fill/w_110,h_110,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Screenshot 2024-11-04 at 16_47_edited.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_a69c0ceb33eb42829ef7b95f5ae0af4c~mv2.png\v1\fill\w_110,h_110,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\Screenshot 2024-11-04 at 16_47_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_a80b0465cdbf46b79541394caf11191b~mv2.jpeg/v1/fill/w_282,h_376,q_90/80ff1c_a80b0465cdbf46b79541394caf11191b~mv2.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_a80b0465cdbf46b79541394caf11191b~mv2.jpeg\v1\fill\w_282,h_376,q_90\80ff1c_a80b0465cdbf46b79541394caf11191b~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_b031b13be15d41ad8d4dfb7c66acaff1~mv2.png/v1/fill/w_117,h_117,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/pngtree-nature-floats-soft-white-cartoon.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_b031b13be15d41ad8d4dfb7c66acaff1~mv2.png\v1\fill\w_117,h_117,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\pngtree-nature-floats-soft-white-cartoon.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_b07499f9f9b04d4fb7ee57883565e821~mv2.png/v1/fill/w_74,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/TV SCREEN.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_b07499f9f9b04d4fb7ee57883565e821~mv2.png\v1\fill\w_74,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\TV SCREEN.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_b62a25e6d77f4cb6bd351a71dbe43f89~mv2.png/v1/crop/x_210,y_192,w_270,h_108/fill/w_180,h_72,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/80ff1c_b62a25e6d77f4cb6bd351a71dbe43f89~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_b62a25e6d77f4cb6bd351a71dbe43f89~mv2.png\v1\crop\x_210,y_192,w_270,h_108\fill\w_180,h_72,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\80ff1c_b62a25e6d77f4cb6bd351a71dbe43f8.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_bbbd1dccea2549de886e5de8473393e7~mv2.png/v1/fill/w_44,h_29,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_bbbd1dccea2549de886e5de8473393e7~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_bbbd1dccea2549de886e5de8473393e7~mv2.png\v1\fill\w_44,h_29,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_bbbd1dccea2549de886e5de8473393e7~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_c3a3d984ad404eedb18f603a2674d90ff003.jpg/v1/fill/w_108,h_108,q_70/80ff1c_c3a3d984ad404eedb18f603a2674d90ff003.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_c3a3d984ad404eedb18f603a2674d90ff003.jpg\v1\fill\w_108,h_108,q_70\80ff1c_c3a3d984ad404eedb18f603a2674d90ff003.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_ca9100ce52c446a1b198cba4afb1d159~mv2.png/v1/fill/w_200,h_269,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/photo_2024-11-02 15_39_edited.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_ca9100ce52c446a1b198cba4afb1d159~mv2.png\v1\fill\w_200,h_269,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\photo_2024-11-02 15_39_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_cab1b2f0cfa7447884518056bac4ef7a~mv2.png/v1/fill/w_73,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_cab1b2f0cfa7447884518056bac4ef7a~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_cab1b2f0cfa7447884518056bac4ef7a~mv2.png\v1\fill\w_73,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_cab1b2f0cfa7447884518056bac4ef7a~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_cce6468fe65541dd9ae7b30e5189d7d2~mv2.png/v1/fill/w_113,h_224,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/DOOK CLASSIC FULL SIZE LARGE_edited.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_cce6468fe65541dd9ae7b30e5189d7d2~mv2.png\v1\fill\w_113,h_224,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\DOOK CLASSIC FULL SIZE LARGE_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_ce86979851a84bbba33a8b60ae7f6db4~mv2.jpg/v1/fill/w_802,h_1012,al_c,q_85/80ff1c_ce86979851a84bbba33a8b60ae7f6db4~mv2.jpg?formatterValues=80ff1c_ce86979851a84bbba33a8b60ae7f6db4~mv2.jpg,802,1012
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_ce86979851a84bbba33a8b60ae7f6db4~mv2.jpg\v1\fill\w_802,h_1012,al_c,q_85\80ff1c_ce86979851a84bbba33a8b60ae7f6db4~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_db9c0b3134e6477a8f3e5442a672dfb5~mv2.jpeg/v1/fill/w_282,h_376,fp_0.63_0.16,q_90/80ff1c_db9c0b3134e6477a8f3e5442a672dfb5~mv2.jpeg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_db9c0b3134e6477a8f3e5442a672dfb5~mv2.jpeg\v1\fill\w_282,h_376,fp_0.63_0.16,q_90\80ff1c_db9c0b3134e6477a8f3e5442a672dfb5~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_df1e9d068e4d455790d4e00127ef3947~mv2.png/v1/fill/w_542,h_437,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SQUARE MIRROR_edited.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_df1e9d068e4d455790d4e00127ef3947~mv2.png\v1\fill\w_542,h_437,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\SQUARE MIRROR_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_e400b75d1505483694d1ff2aa662e6e3f000.jpg/v1/fill/w_194,h_345,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/80ff1c_e400b75d1505483694d1ff2aa662e6e3f000.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_e400b75d1505483694d1ff2aa662e6e3f000.jpg\v1\fill\w_194,h_345,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\80ff1c_e400b75d1505483694d1ff2aa662e6e3f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_e7ba0d81110f431d92c51b5b9daa3363~mv2.png/v1/fill/w_113,h_213,al_c,q_85,usm_0.66_1.00_0.01,blur_1,enc_auto/80ff1c_e7ba0d81110f431d92c51b5b9daa3363~mv2.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_e7ba0d81110f431d92c51b5b9daa3363~mv2.png\v1\fill\w_113,h_213,al_c,q_85,usm_0.66_1.00_0.01,blur_1,enc_auto\80ff1c_e7ba0d81110f431d92c51b5b9daa3363~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_e8e0e7cc6ddb40c1b766b244d4736281f000.jpg/v1/fill/w_71,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/80ff1c_e8e0e7cc6ddb40c1b766b244d4736281f000.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_e8e0e7cc6ddb40c1b766b244d4736281f000.jpg\v1\fill\w_71,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\80ff1c_e8e0e7cc6ddb40c1b766b244d4736281f000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/80ff1c_ec1df231c90b4849a639b10a589e325b~mv2.png/v1/fill/w_63,h_61,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Screenshot 2024-11-04 at 14_12_edited.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_ec1df231c90b4849a639b10a589e325b~mv2.png\v1\fill\w_63,h_61,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\Screenshot 2024-11-04 at 14_12_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_ed4cb4463ef64716897fa6804aba85a2~mv2.png/v1/fill/w_59,h_63,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/link circle.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_ed4cb4463ef64716897fa6804aba85a2~mv2.png\v1\fill\w_59,h_63,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\link circle.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/80ff1c_f886376358104d8c9eba570f3c8c2937~mv2.png/v1/fill/w_45,h_20,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/various-tropical-leaves-transparent-back.png
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\80ff1c_f886376358104d8c9eba570f3c8c2937~mv2.png\v1\fill\w_45,h_20,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\various-tropical-leaves-transparent-back.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/a3c153_8d1a945d2515486c824c292509617008~mv2.jpg/v1/fill/w_1920,h_1165,al_c,q_90/a3c153_8d1a945d2515486c824c292509617008~mv2.jpg?formatterValues=a3c153_8d1a945d2515486c824c292509617008~mv2.jpg,1920,1165
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\media\a3c153_8d1a945d2515486c824c292509617008~mv2.jpg\v1\fill\w_1920,h_1165,al_c,q_90\a3c153_8d1a945d2515486c824c292509617008~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/ufonts/2989b7_fa114d781b1e4399b45f46bf0947e387/ttf/file.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\ufonts\2989b7_fa114d781b1e4399b45f46bf0947e387\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/2989b7_fa114d781b1e4399b45f46bf0947e387/woff/file.woff
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\ufonts\2989b7_fa114d781b1e4399b45f46bf0947e387\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/2989b7_fa114d781b1e4399b45f46bf0947e387/woff2/file.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\ufonts\2989b7_fa114d781b1e4399b45f46bf0947e387\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://www.shoobadookie.com/
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\index.htm
+Content Type: text/html
+
+Uri: https://www.shoobadookie.com/copy-of-home
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\copy-of-home.html
+Content Type: text/html
+
+Uri: https://www.shoobadookie.com/how-to-buy-dook
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\how-to-buy-dook.html
+Content Type: text/html
+
+Uri: https://www.shoobadookie.com/pfp-generator
+File Name: C:\work\Downloaded Web Sites\18.01\www.shoobadookie.com\pfp-generator.html
+Content Type: text/html
+
